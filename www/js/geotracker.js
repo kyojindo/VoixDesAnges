@@ -1,4 +1,5 @@
-var serverIp = '193.190.210.15';
+// var serverIp = '193.190.210.15';
+var serverIp = '172.20.10.3';
 var serverPort = 8008;
 
 var icePort = 8000;
