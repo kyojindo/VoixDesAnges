@@ -1,7 +1,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.hovertone.voixdesanges" version="1.0.0">
   <name>Voix des Anges</name>
-  <description>Geolocation-dependent audio streaming.</description>
-  <author href="http://phonegap.com" email="support@phonegap.com">Nicolas</author>
+  <description>Geolocalised participative audio streaming.</description>
+  <author href="http://www.hovertone.com" email="nicolas@hovertone.com">Nicolas d'Alessandro'</author>
   <content src="index.html"/>
   <preference name="permissions" value="none"/>
   <preference name="orientation" value="default"/>
