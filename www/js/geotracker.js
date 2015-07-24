@@ -149,3 +149,19 @@ $("#progress").live('click', function(){
         startListening(ID);
     }
 });
+
+function onClickConnect() {
+	
+    if(ID != null)
+    {
+        if(watch_id == null)
+        {
+            startTracking();
+        }
+        else
+        {
+            stopTracking();
+        }
+        startListening(ID);
+    }
+}
